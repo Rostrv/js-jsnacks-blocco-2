@@ -20,7 +20,7 @@ let i = 1
 
 while (i <= 5) {
     let numero = parseInt(prompt('inserisci un numero'))
-    total = total + numero
+    total = total + numero //oppure total += number
 
     i++
 }
